@@ -12,7 +12,9 @@ insufficient model selection. Furthermore, the limited data and modelling condit
 the model’s performance. We also consider it possible, that the quality of drill holes can not be derived from the sensor data at all.
 
 Illustration of the Data Preparation Process:
+
 <img src="https://github.com/janinerottmann/Drillhole-Inspection/blob/master/Data_Preparation.png" width="800" />
 
 Visualization of the decision boundaries of SVM, ANN, RF and KNN classifiers and comparison between classification with default values and hyperparameter tuning:
+
 <img src="https://github.com/janinerottmann/Drillhole-Inspection/blob/master/HyperparameterTuning.png" width="800" />
